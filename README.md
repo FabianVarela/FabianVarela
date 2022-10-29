@@ -5,7 +5,7 @@ I'm Fabian Varela Bonett, a Senior Software Engineer for 13 years and Flutter Co
 | Rank |    Languages    |
 |-----:|-----------------|
 |     1| Dart / Flutter  |
-|     2| C# .Net core    |
+|     2| C# / .Net core  |
 |     3| Kotlin / Android|
 
 Also, I have been a speaker at different events in person and online since the fall of 2018 until today.
