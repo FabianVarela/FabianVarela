@@ -14,7 +14,8 @@ Also, I have been a speaker at different events in person and online since the f
 - Making the *Flutter Day 2020* in [GDG Bogotá](https://www.youtube.com/watch?v=Z7BV6NU7ZX8&ab_channel=GDGBogot%C3%A1).
 - My first podcast talking about *Flutter and its advantages* in the [Coffee Power podcast channel](https://www.youtube.com/watch?v=dyEeLirPUyQ).
 - Talking about *How to use Adaptive Apps with Flutter* in [Flutter Global Summit Vol. 2](https://www.youtube.com/watch?v=6oiK_NHGCkA&t=38110s).
-- My last Collaboration with [Argel Bejarano](https://github.com/Arkangel12) talking about *Dart Frog* in the [Community Brain channel](https://www.youtube.com/playlist?list=PLYZSbh8amjEmcyeHu5RFjakda3te7TeEc).
+- My Collaboration with [Argel Bejarano](https://github.com/Arkangel12) talking about *Dart Frog* in the [Community Brain channel](https://www.youtube.com/playlist?list=PLYZSbh8amjEmcyeHu5RFjakda3te7TeEc).
+- My last participation talking about *Dart FullStack = Flutter + Dart Frog* in [Flutter Global summit 23](https://www.youtube.com/watch?v=BafFTK-YClo&t=36600s).
 
 Extras about me.
 
