@@ -16,7 +16,7 @@ Also, I have been a speaker at different events in person and online since the f
 - Talking about *How to use Adaptive Apps with Flutter* in [Flutter Global Summit Vol. 2](https://www.youtube.com/watch?v=6oiK_NHGCkA&t=38110s).
 - My Collaboration with [Argel Bejarano](https://github.com/Arkangel12) talking about *Dart Frog* in the [Community Brain channel](https://www.youtube.com/playlist?list=PLYZSbh8amjEmcyeHu5RFjakda3te7TeEc).
 - My participation talking about *Dart FullStack = Flutter + Dart Frog* in [Flutter Global summit 23](https://www.youtube.com/watch?v=BafFTK-YClo&t=36600s).
-- My last participation is in [Flutter Heroes](https://flutterheroes.com/2023/speakers/) event, talking about *Go Router navigation*.
+- My last participation is in [Flutter Heroes](https://flutterheroes.com/2023/speakers/) event, talking about [*Go Router navigation*](https://youtu.be/itGodUWFRzc).
 
 Extras about me.
 
