@@ -17,7 +17,8 @@ Also, I have been a speaker at different events in person and online since the f
 - My Collaboration with [Argel Bejarano](https://github.com/Arkangel12) about *Dart Frog* in the [Community Brain channel](https://www.youtube.com/playlist?list=PLYZSbh8amjEmcyeHu5RFjakda3te7TeEc).
 - My participation discussing *Dart FullStack = Flutter + Dart Frog* in [Flutter Global summit 23](https://www.youtube.com/watch?v=BafFTK-YClo&t=36600s).
 - My participation was in the [Flutter Heroes](https://flutterheroes.com/2023/speakers/) event, discussing [*Go Router navigation*](https://youtu.be/itGodUWFRzc).
-- My last participation talking about *Firebase Dynamic Links and the Deep Links* in [Flutter Global Summit 2024](https://www.youtube.com/watch?v=aSRl8zFuQJk&t=12200s).
+- My participation talking about *Firebase Dynamic Links and the Deep Links* in [Flutter Global Summit 2024](https://www.youtube.com/watch?v=aSRl8zFuQJk&t=12200s).
+- My participation in the video's first part, talking about *Gemini AI with Flutter* in [Flutter Uruguay](https://www.youtube.com/watch?v=SyFNB81p-OY).
 
 Extras about me.
 
