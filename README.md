@@ -28,6 +28,8 @@ I have also been a speaker at different events in person and online since the fa
 - My participation was in the [Flutter Heroes](https://flutterheroes.com/2023/speakers/) event, discussing [*Go Router navigation*](https://youtu.be/itGodUWFRzc).
 - My participation talking about *Firebase Dynamic Links and the Deep Links* in [Flutter Global Summit 2024](https://www.youtube.com/watch?v=aSRl8zFuQJk&t=12200s).
 - My participation in the video's first part, talking about *Gemini AI with Flutter* in [Flutter Uruguay](https://www.youtube.com/watch?v=SyFNB81p-OY).
+- My participation in the two [Flutter LATAM conferences](https://flutterconflatam.dev/), talking about Flutter with Riverpod (2023) and Vertex AI (2024).
+- Speaker in some DevFest events in 2024 around LATAM (🇬🇹, 🇵🇪, 🇵🇦, and 🇲🇽).
 
 Extras about me.
 
