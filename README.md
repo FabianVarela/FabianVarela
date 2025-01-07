@@ -1,14 +1,23 @@
 ### Hello there 👋 (Obi-wan mode)
 
-I'm Fabian Varela Bonett 💙, a Senior Software Engineer for 15 years and Flutter Bogotá (before Flutter Colombia) Founder/Organizer. During my experience, I have worked with different technologies.
+I'm Fabian Varela Bonett 💙, a Senior Software Engineer for 16 years and Flutter Bogotá (before Flutter Colombia) Founder/Organizer. 
 
-| Rank |    Languages    |
-|-----:|-----------------|
-|     1| Dart / Flutter  |
-|     2| C# / .Net core  |
-|     3| Kotlin / Android|
+| Stats              | Top languages |
+| :---------------- | :------: |
+| [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianvarela&show_icons=true&theme=dark)](https://github.com/fabianvarela/github-readme-stats)        |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianvarela&layout=compact&theme=dark)   |
 
-Also, I have been a speaker at different events in person and online since the fall of 2018.
+During my experience, I have worked with different technologies.
+
+| Stack          |                                        Technologies                                           |
+| :------------: |:---------------------------------------------------------------------------------------------:|
+| Multiplatform  | [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)           |
+| BackEnd        | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)              |
+| Native apps    | [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)   |
+| Databases      | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://skillicons.dev)|
+| Cloud          | [![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)              |
+| Version control| [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)      |
+
+I have also been a speaker at different events in person and online since the fall of 2018.
 
 - Some sessions talking about *Flutter and Dart* in the [Flutter Colombia channel](https://www.youtube.com/c/FlutterColombia).
 - Making the *Flutter Day 2020* in [GDG Bogotá](https://www.youtube.com/watch?v=Z7BV6NU7ZX8&ab_channel=GDGBogot%C3%A1).
