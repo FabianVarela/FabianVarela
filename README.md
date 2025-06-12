@@ -17,7 +17,7 @@ During my experience, I have worked with different technologies.
 | Cloud          | [![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)              |
 | Version control| [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)      |
 
-I have also been a speaker at different events in person and online since the fall of 2018.
+I have also been a speaker at various in-person and online events since the fall of 2018.
 
 - Some sessions talking about *Flutter and Dart* in the [Flutter Colombia channel](https://www.youtube.com/c/FlutterColombia).
 - Making the *Flutter Day 2020* in [GDG Bogotá](https://www.youtube.com/watch?v=Z7BV6NU7ZX8&ab_channel=GDGBogot%C3%A1).
@@ -30,6 +30,7 @@ I have also been a speaker at different events in person and online since the fa
 - My participation in the video's first part, talking about *Gemini AI with Flutter* in [Flutter Uruguay](https://www.youtube.com/watch?v=SyFNB81p-OY).
 - My participation in the two [Flutter LATAM conferences](https://flutterconflatam.dev/), talking about Flutter with Riverpod (2023) and Vertex AI (2024).
 - Speaker in some DevFest events in 2024 around LATAM (🇬🇹, 🇵🇪, 🇵🇦, and 🇲🇽).
+- My participation talking about *Firebase Data Connect and Flutter* in [Flutter Global Summit 2025](https://www.youtube.com/watch?v=L2uJ5iXm4O8&t=15853).
 
 Extras about me.
 
