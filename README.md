@@ -11,7 +11,7 @@ During my experience, I have worked with different technologies.
 | Stack          |                                        Technologies                                           |
 | :------------: |:---------------------------------------------------------------------------------------------:|
 | Multiplatform  | [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)           |
-| BackEnd        | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)              |
+| BackEnd        | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,flask)](https://skillicons.dev)              |
 | Native apps    | [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)   |
 | Databases      | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://skillicons.dev)|
 | Cloud          | [![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)              |
