@@ -36,6 +36,7 @@ I have also been a speaker at various in-person and online events since the fall
   - Vertex AI (2024).
   - Firebase Data Connect (2025).
 - Speaker in some DevFest events in 2025 around LATAM (🇨🇷, 🇧🇴, 🇵🇦, 🇵🇪, and 🇨🇴).
+- Speaker recently at Flutter Conf Paraguay 🇵🇾 2026.
 
 Extras about me.
 
