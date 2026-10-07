@@ -1,12 +1,12 @@
-### Hello there 👋 (Obi-wan mode)
+### Hello there 👋 (Obi-Wan mode)
 
-I'm Fabian Varela Bonett 💙, a Senior Software Engineer for 17 years and Flutter Bogotá (before Flutter Colombia) Founder/Organizer. 
+I'm Fabian Varela Bonett 💙, a Senior Software Engineer with almost 20 years of experience and the founder/organizer of Flutter Bogotá (formerly Flutter Colombia).
 
 | Stats              | Top languages |
 | :---------------- | :------: |
 | [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianvarela&show_icons=true&theme=dark)](https://github.com/fabianvarela/github-readme-stats)        |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianvarela&layout=compact&theme=dark)   |
 
-During my experience, I have worked with different technologies.
+I have worked with a range of technologies.
 
 | Stack          |                                        Technologies                                           |
 | :------------: |:---------------------------------------------------------------------------------------------:|
@@ -17,7 +17,7 @@ During my experience, I have worked with different technologies.
 | Cloud          | [![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)              |
 | Version control| [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)      |
 
-I have also been a speaker at various in-person and online events since the fall of 2018.
+I have also spoken at various in-person and online events since the fall of 2018.
 
 - Some sessions talking about *Flutter and Dart* in the [Flutter Colombia channel](https://www.youtube.com/c/FlutterColombia).
 - Making the *Flutter Day 2020* in [GDG Bogotá](https://www.youtube.com/watch?v=Z7BV6NU7ZX8&ab_channel=GDGBogot%C3%A1).
@@ -28,15 +28,16 @@ I have also been a speaker at various in-person and online events since the fall
 - My participation was in the [Flutter Heroes](https://flutterheroes.com/2023/speakers/) event, discussing [*Go Router navigation*](https://youtu.be/itGodUWFRzc).
 - My participation talking about *Firebase Dynamic Links and the Deep Links* in [Flutter Global Summit 2024](https://www.youtube.com/watch?v=aSRl8zFuQJk&t=12200s).
 - My participation in the video's first part, talking about *Gemini AI with Flutter* in [Flutter Uruguay](https://www.youtube.com/watch?v=SyFNB81p-OY).
-- Speaker in some DevFest events in 2024 around LATAM (🇬🇹, 🇵🇪, 🇵🇦, and 🇲🇽).
+- Speaker at some DevFest events in 2024 around LATAM (🇬🇹, 🇵🇪, 🇵🇦, and 🇲🇽).
 - My participation talking about *Firebase Data Connect and Flutter* in [Flutter Global Summit 2025](https://www.youtube.com/watch?v=L2uJ5iXm4O8&t=15853).
-- My participation in Build With AI and Google I/O extended in 2025 in Guatemala City 🇬🇹.
-- My participation in the three [Flutter LATAM conferences](https://flutterconflatam.dev/), talking about:
+- My participation in Build With AI and Google I/O extended to 2025 in Guatemala City 🇬🇹.
+- Speaker at some DevFest events in 2025 around LATAM (🇨🇷, 🇧🇴, 🇵🇦, 🇵🇪, and 🇨🇴).
+- Speaker at Flutter Conf Paraguay 🇵🇾 2026.
+- My participation in the four [Flutter LATAM conferences](https://flutterconflatam.dev/), talking about:
   - Flutter with Riverpod (2023).
   - Vertex AI (2024).
   - Firebase Data Connect (2025).
-- Speaker in some DevFest events in 2025 around LATAM (🇨🇷, 🇧🇴, 🇵🇦, 🇵🇪, and 🇨🇴).
-- Speaker recently at Flutter Conf Paraguay 🇵🇾 2026.
+  - Flutter GenUI / A2UI (2026).
 
 Extras about me.
 
