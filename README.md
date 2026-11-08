@@ -33,6 +33,7 @@ I have also spoken at various in-person and online events since the fall of 2018
 - My participation in Build With AI and Google I/O extended to 2025 in Guatemala City 🇬🇹.
 - Speaker at some DevFest events in 2025 around LATAM (🇨🇷, 🇧🇴, 🇵🇦, 🇵🇪, and 🇨🇴).
 - Speaker at Flutter Conf Paraguay 🇵🇾 2026.
+- Speaker at some DevFest events in 2026 around LATAM (🇵🇦, 🇬🇹, and 🇨🇴).
 - My participation in the four [Flutter LATAM conferences](https://flutterconflatam.dev/), talking about:
   - Flutter with Riverpod (2023).
   - Vertex AI (2024).
